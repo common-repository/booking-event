@@ -1,0 +1,48 @@
+.redtext {
+font: 10px arial, Helvetica, sans-serif;
+color: #FF0000;
+}
+
+.mgs_t1 {
+font-weight:bold;
+}
+
+.event {
+background-color: #88ccEE;
+padding: 15px;
+display: block;
+}
+
+.usPrenotato{
+  margin: 3px;
+  padding:0;
+  width: 70px;
+  background-color: white;
+  float:left;
+  height: 110px;
+}
+
+.avatarPrenotato{
+  margin:0;
+  padding:0;
+  width: 70px;
+  text-align: center;
+
+}
+
+.nomePrenotato{
+   width: 70px;
+   text-align: center;
+   font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+   font-size:11px;
+   font-weight:bold;
+}
+
+.listUt{
+	width: 100%;
+	clear:both;
+	display:block !important;
+	margin-top:10px;
+	overflow:hidden;
+	
+}

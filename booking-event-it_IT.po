@@ -1,0 +1,146 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/booking-event\n"
+"POT-Creation-Date: 2010-01-07 10:41+0000\n"
+"PO-Revision-Date: 2010-01-07 11:46+0100\n"
+"Last-Translator: Giovanni Caputo <giovannnicaputo86@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bookable_events.php:98
+#, fuzzy
+msgid "Send mail to partecipants"
+msgstr "Invia una mail ai partecipanti"
+
+#: bookable_events.php:100
+#, fuzzy
+msgid "Subject"
+msgstr "Oggetto"
+
+#: bookable_events.php:101
+msgid "Message"
+msgstr "Message"
+
+#: bookable_events.php:102
+msgid "Send"
+msgstr "Invia"
+
+#: bookable_events.php:120
+msgid "Registrered users for this event:"
+msgstr "Utenti registrati per questo evento"
+
+#: bookable_events.php:138
+msgid "in total"
+msgstr "in totale"
+
+#: bookable_events.php:140
+msgid "No registered users for this event."
+msgstr "Nessun utente registrato a questo evento"
+
+#: bookable_events.php:189
+#: bookable_events.php:191
+#: bookable_events.php:396
+#: bookable_events.php:397
+#: bookable_events.php:416
+msgid "Last bookable events"
+msgstr "Ultimi eventi prenotabili"
+
+#: bookable_events.php:198
+msgid "If you want to register for this event, click on the following link after login."
+msgstr "Se vuoi prenotarti per questo evento, clicca al seguente link dopo il login."
+
+#: bookable_events.php:198
+msgid "Register!"
+msgstr "Prenotati!"
+
+#: bookable_events.php:205
+msgid "If you want to unregister from this event, click on the following link after login."
+msgstr "Se vuoi annullare la prenotazione da questo evento clicca il seguente link dopo il login."
+
+#: bookable_events.php:205
+msgid "Unregister!"
+msgstr "Annulla prenotazione!"
+
+#: bookable_events.php:262
+#: bookable_events.php:314
+#: bookable_events.php:364
+msgid "bookable event"
+msgstr "Evento prenotabile"
+
+#: bookable_events.php:302
+msgid "thank you for the registration!"
+msgstr "Grazie per la tua prenotazione"
+
+#: bookable_events.php:311
+msgid "Booking Event"
+msgstr "Prenotazione Eventi"
+
+#: bookable_events.php:311
+#: bookable_events.php:361
+msgid "User"
+msgstr "Utente"
+
+#: bookable_events.php:311
+msgid "is booking at event"
+msgstr "prenotato all'evento"
+
+#: bookable_events.php:329
+msgid "you are already registered!"
+msgstr "sei gia' prenotato"
+
+#: bookable_events.php:333
+msgid "You must be logged in to register for this event!"
+msgstr "Devi essere loggato per registrarti a questo evento!"
+
+#: bookable_events.php:354
+msgid "you have never been registered for this event!"
+msgstr "Non sei mai stasto registrato per questo evento!"
+
+#: bookable_events.php:361
+msgid "Cancel Booking"
+msgstr "Cancella prenotazione"
+
+#: bookable_events.php:361
+msgid "Tot"
+msgstr "Tot"
+
+#: bookable_events.php:361
+msgid "Users"
+msgstr "Utenti"
+
+#: bookable_events.php:361
+msgid " have cancelled booking for event "
+msgstr "Disdetta prenotazione per l'evento"
+
+#: bookable_events.php:379
+msgid "You must be logged in to unregister from this event!"
+msgstr "Devi essere loggato per disdire le prenotazione!"
+
+#: bookable_events.php:444
+msgid "No registered users"
+msgstr "Nessun utente prenotato"
+
+#: bookable_events.php:445
+msgid "Protected post"
+msgstr "Post protetto"
+
+#: bookable_events.php:480
+msgid "Title"
+msgstr "Titolo"
+
+#: bookable_events.php:482
+msgid "Number of posts to show"
+msgstr "Numero di post da mostrare"
+
+#: bookable_events.php:484
+msgid "(at most 10)"
+msgstr "(al massimo 10)"
+
